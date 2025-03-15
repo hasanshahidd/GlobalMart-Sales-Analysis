@@ -33,19 +33,26 @@ The company required:
 
 ---
 
-## 🔹 Power BI Dashboard  
+## 📊 Power BI Dashboard  
 
-A multi-page Power BI report was developed, enabling users to analyze:  
-📊 **Sales performance** across different regions  
-📈 **Trends in revenue & customer behavior**  
-🏷️ **Product-wise sales insights**  
-📍 **Store locations and sales distribution**  
+The Power BI report provides **interactive visual insights** on key business metrics. Users can filter and explore:  
 
-### **Star Schema Data Model**  
+📈 **Revenue trends over time**  
+🏷️ **Product sales performance**  
+📍 **Regional store insights**  
+👥 **Customer segmentation & purchase behavior**  
+
+### 🔹 **Dashboard Preview**  
+
+![Power BI Dashboard](images-readme/powerbi-dashboard.png)  
+
+---
+
+## 🔹 Star Schema Data Model  
 
 To efficiently structure the dataset, a **star schema** was implemented in Power BI, ensuring optimal performance and easy navigation.  
 
-![Star Schema Model](/images-readme/data_model.png)  
+![Star Schema Model](images-readme/data_model.png)  
 
 ---
 
