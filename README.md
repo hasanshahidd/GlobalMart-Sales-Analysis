@@ -44,7 +44,7 @@ The Power BI report provides **interactive visual insights** on key business met
 
 ### 🔹 **Dashboard Preview**  
 
-![Power BI Dashboard](images-readme/powerbi-dashboard.png)  
+![Power BI Dashboard](sales/Screenshot 2025-03-15 120149.png)  
 
 ---
 
