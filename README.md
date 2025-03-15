@@ -52,7 +52,7 @@ The Power BI report provides **interactive visual insights** on key business met
 
 To efficiently structure the dataset, a **star schema** was implemented in Power BI, ensuring optimal performance and easy navigation.  
 
-![Star Schema Model](images-readme/data_model.png)  
+![Star Schema Model](sales/data_model.png)  
 
 ---
 
